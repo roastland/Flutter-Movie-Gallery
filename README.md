@@ -27,13 +27,13 @@ A multi-platform app using Flutter to display Christopher Nolan's movie with gal
 
 ## Interface
 - Home Page (Web)
-![Home Page (Web)](https://github.com/roastland/Flutter-Movie-Gallery/blob/main/assets/images/interface/web1.PNG)
+![Home Page (Web)](https://github.com/roastland/Flutter-Movie-Gallery/blob/main/assets/images/interface/web1.png)
 - Details Page (Web)
-![Details Page (Web)](https://github.com/roastland/Flutter-Movie-Gallery/blob/main/assets/images/interface/web2.PNG)
+![Details Page (Web)](https://github.com/roastland/Flutter-Movie-Gallery/blob/main/assets/images/interface/web2.png)
 - Home Page (Mobile)
-![Home Page (Mobile)](https://github.com/roastland/Flutter-Movie-Gallery/blob/main/assets/images/interface/mobile1.PNG)
+![Home Page (Mobile)](https://github.com/roastland/Flutter-Movie-Gallery/blob/main/assets/images/interface/mobile1.png)
 - Details Page (Mobile)
-![Details Page (Mobile)](https://github.com/roastland/Flutter-Movie-Gallery/blob/main/assets/images/interface/mobile1.PNG)
+![Details Page (Mobile)](https://github.com/roastland/Flutter-Movie-Gallery/blob/main/assets/images/interface/mobile1.png)
 
 ## Setup
 - Install & Setup Dart, Flutter, and IDE (VS Code/Intellij IDEA)
