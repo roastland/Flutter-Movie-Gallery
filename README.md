@@ -1,30 +1,48 @@
-# dicoding_flutter_basic
+# Nolan's Movie Gallery
+> Flutter App Submission for [Dicoding](https://www.dicoding.com/academies/159) course.
 
-A new Flutter project.
 
-## Getting Started
+## Table of Contents
+* [General Information](#general-information)
+* [Technologies Used](#technologies-used)
+* [Features](#features)
+* [Interface](#interface)
+* [Setup](#setup)
+* [Usage](#usage)
+* [Future Improvements](#future-improvements)
 
-This project is a starting point for a Flutter application that follows the
-[simple app state management
-tutorial](https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple).
 
-For help getting started with Flutter development, view the
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## General Information
+A multi-platform app using Flutter to display Christopher Nolan's movie with gallery view and responsive details view.
 
-## Assets
+## Technologies Used
+- Flutter (stable 3.16.2)
+- Dart (3.2.2)
 
-The `assets` directory houses images, fonts, and any other files you want to
-include with your application.
+## Features
+- GridView Movie Gallery
+- Movie Details View:
+    - Add Review
+- Light/Dark Mode Settings
 
-The `assets/images` directory contains [resolution-aware
-images](https://flutter.dev/docs/development/ui/assets-and-images#resolution-aware).
+## Interface
+- Home Page (Web)
+![Home Page (Web)](https://github.com/roastland/Flutter-Movie-Gallery/blob/main/assets/images/interface/web1.PNG)
+- Details Page (Web)
+![Details Page (Web)](https://github.com/roastland/Flutter-Movie-Gallery/blob/main/assets/images/interface/web2.PNG)
+- Home Page (Mobile)
+![Home Page (Mobile)](https://github.com/roastland/Flutter-Movie-Gallery/blob/main/assets/images/interface/mobile1.PNG)
+- Details Page (Mobile)
+![Details Page (Mobile)](https://github.com/roastland/Flutter-Movie-Gallery/blob/main/assets/images/interface/mobile1.PNG)
 
-## Localization
+## Setup
+- Install & Setup Dart, Flutter, and IDE (VS Code/Intellij IDEA)
 
-This project generates localized messages based on arb files found in
-the `lib/src/localization` directory.
+## Usage
+1. Clone this repository
+2. Install Flutter dependencies with `flutter pub get`
+3. Connect with other devices or run emulator
+4. Run & debug `lib\main.dart`
 
-To support additional languages, please visit the tutorial on
-[Internationalizing Flutter
-apps](https://flutter.dev/docs/development/accessibility-and-localization/internationalization)
+## Future Improvements
+- Utilize state management and local caching
